@@ -48,8 +48,6 @@ fasteners.
 
 ## License
 
-Copyright © 2026 Andre Erasmus.
-
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
 
 You may redistribute and modify this source and make products using it under
@@ -64,3 +62,5 @@ Source location: https://github.com/ErasmusAndre/mini-rack
 As per CERN-OHL-S v2 section 4, should You produce hardware based on this
 source, You must where practicable maintain the Source Location visible on the
 external case of any product you make using this source.
+
+Made by **André Erasmus, github.com/ErasmusAndre/mini-rack**.
