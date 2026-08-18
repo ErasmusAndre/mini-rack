@@ -8,8 +8,9 @@ off, printed in green PLA.
 ## Design notes
 
 This is a test mount, not a finished part. It holds the board steady on a shelf
-and nothing more. The profile is meant to be folded into a larger print later,
-such as a full 10-inch rack mount that screws down to the rails.
+and nothing more. The profile was folded into the
+[10 inch rack mount](../blackview-mp80-10inch-rack-mount/), which is what the
+node runs in now.
 
 The MP-80 does not go in the rack in its OEM enclosure. The board comes out of
 the case and bolts to this stand instead. Outside the sealed plastic shell the
@@ -48,19 +49,10 @@ fasteners.
 
 ## License
 
-This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
-
-You may redistribute and modify this source and make products using it under
-the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
-
-This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
-OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-S v2 for applicable conditions.
-
+CERN-OHL-S v2 ([LICENSE](../../LICENSE)), without warranty of any kind.
 Source location: https://github.com/ErasmusAndre/mini-rack
 
-As per CERN-OHL-S v2 section 4, should You produce hardware based on this
-source, You must where practicable maintain the Source Location visible on the
-external case of any product you make using this source.
+Per CERN-OHL-S v2 section 4, hardware built from this source must keep the
+source location visible on the outside where practicable.
 
 Made by **André Erasmus, github.com/ErasmusAndre/mini-rack**.
