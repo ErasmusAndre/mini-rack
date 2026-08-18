@@ -96,9 +96,7 @@ Compute currently in the cluster:
 
 ## License
 
-Copyright © 2026 Andre Erasmus
-
 [CERN-OHL-S v2](LICENSE). Use it, modify it, build and sell hardware from it,
 as long as you pass on the complete source under the same licence.
 
-Credit **Andre Erasmus, github.com/ErasmusAndre/mini-rack**.
+Credit **André Erasmus, github.com/ErasmusAndre/mini-rack**.
