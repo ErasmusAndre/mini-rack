@@ -18,12 +18,16 @@ running my Talos Kubernetes cluster.
 
 ### Parts
 
-| Qty | Part |
-| --- | --- |
-| 4 | [Profile 20x20 B-type slot 6](https://www.motedis.nl/en/Profile-20x20-B-type-slot-6), 1 m lengths |
-| 8 | [Cube connector 20 B-type slot 6](https://www.motedis.nl/en/Cube-connector-20-B-type-slot-6), 3D variant |
-| 40 | [Roll-in T-slot nut, slot 6, M5](https://www.aluxprofiel.nl/inklikmoer-t-sleuf-6-m5/a3665), 4 per U |
-| 40 | [Flanged button head screw DIN 7380F, M5x8](https://www.motedis.nl/nl/Flensbout-DIN-7380F/M5x8), one per T-nut |
+| Qty | Part | Price |
+| --- | --- | --- |
+| 4 | [Profile 20x20 B-type slot 6](https://www.motedis.nl/en/Profile-20x20-B-type-slot-6), 1 m lengths | €23.00 |
+| 8 | [Cube connector 20 B-type slot 6](https://www.motedis.nl/en/Cube-connector-20-B-type-slot-6), 3D variant | €33.00 |
+| 40 | [Roll-in T-slot nut, slot 6, M5](https://www.aluxprofiel.nl/inklikmoer-t-sleuf-6-m5/a3665), 4 per U | €10.00 |
+| 40 | [Flanged button head screw DIN 7380F, M5x8](https://www.motedis.nl/nl/Flensbout-DIN-7380F/M5x8), one per T-nut | €9.00 |
+| | **Total** | **€75.00** |
+
+
+#### Notes on the Parts:
 
 Slot 6 throughout, which is the common choice at this profile size and carries by
 far the widest range of T-nuts and connectors. 
