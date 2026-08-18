@@ -7,8 +7,7 @@ stripped off, printed in white PLA.
 
 ## Design notes
 
-254 mm wide, 121 mm deep, 44.45 mm high. The ears bolt straight to the rack
-rails, so the board no longer sits on a shelf. This is what the
+The board no longer sits on a shelf. This is what the
 [test mount](../blackview-mp80-mount/) was a trial run for: the same board
 profile, now folded into a full-width tray.
 
@@ -17,7 +16,7 @@ the case and bolts to the tray instead. Outside the sealed plastic shell the
 heatsink sits in open air, so the node runs cooler.
 
 The hex cutouts in the floor and side wall let air through and cut print time.
-The front panel carries an embossed erasmus.works.
+The front panel carries embossed Erasmus.works text, the files you can download in this repo don't. 
 
 ## Printing
 
