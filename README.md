@@ -10,8 +10,57 @@ running my Talos Kubernetes cluster.
 
 ## The Rack
 
-<!-- TODO: extrusion profile and lengths, corner/joining hardware, overall
-     dimensions, rack unit height, and a photo of the finished build. -->
+2020 aluminium extrusion, 10U, 220 mm wide and 240 mm deep.
+
+<img src="images/mini-rack-dimensions.png" alt="The rack frame with width 220 mm, depth 240 mm, and 10U height 445 mm marked" width="360">
+
+*PS5 controller, AA battery and USB stick for scale.*
+
+### Parts
+
+| Qty | Part |
+| --- | --- |
+| 4 | [Profile 20x20 B-type slot 6](https://www.motedis.nl/en/Profile-20x20-B-type-slot-6), 1 m lengths |
+| 8 | [Cube connector 20 B-type slot 6](https://www.motedis.nl/en/Cube-connector-20-B-type-slot-6), 3D variant |
+| 40 | [Roll-in T-slot nut, slot 6, M5](https://www.aluxprofiel.nl/inklikmoer-t-sleuf-6-m5/a3665), 4 per U |
+| 40 | [Flanged button head screw DIN 7380F, M5x8](https://www.motedis.nl/nl/Flensbout-DIN-7380F/M5x8), one per T-nut |
+
+Slot 6 throughout, which is the common choice at this profile size and carries by
+far the widest range of T-nuts and connectors. 
+Note: Slot 5 profile and connectors are not interchangeable with these.
+
+Take the 3D connectors, not 2D: every corner of a cuboid frame joins three
+profiles. They ship with DIN965 M6x16 countersunk screws, one per profile.
+
+The T-nuts roll into an assembled frame, so mounting points can be added later
+without taking the rack apart. Order spares, they are 20 cents each. M5 here is
+the nut thread and is unrelated to the profile's M6 core.
+
+The flange spreads load across the slot edges, so no washer is needed in normal
+use. M5x8 suits 3 to 5 mm printed parts. For thinner mounts such as 1.5 mm steel
+shelves, add a washer or drop to a 6 mm bolt, otherwise the screw bottoms out
+before it clamps.
+
+### Cut list
+
+Twelve pieces out of the four 1 m lengths:
+
+| Qty | Length | Axis |
+| --- | --- | --- |
+| 4 | 220 mm | Width |
+| 4 | 240 mm | Depth |
+| 4 | 445 mm | Height |
+
+A rack unit is 44.5 mm, so height is `44.5 x U`. This build is 10U: 44.5 x 10 = 445 mm.
+
+Two 445 mm pieces come out of each of the first two lengths, four 240 mm out of
+the third, four 220 mm out of the fourth. That is 3620 mm cut from 4000 mm, so
+there is room for saw kerf and a mistake.
+
+Depth is a free choice. 240 mm clears the mini-PCs used here with room for cabling
+behind them.
+
+<!-- TODO: rack ears and patch panel mounting. -->
 
 ## 3D Printed Parts
 
