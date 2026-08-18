@@ -99,4 +99,4 @@ Compute currently in the cluster:
 [CERN-OHL-S v2](LICENSE). Use it, modify it, build and sell hardware from it,
 as long as you pass on the complete source under the same licence.
 
-Credit **André Erasmus, github.com/ErasmusAndre/mini-rack**.
+Made by **André Erasmus, github.com/ErasmusAndre/mini-rack**.
