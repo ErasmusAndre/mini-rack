@@ -59,5 +59,3 @@ OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-S v2 for applicable conditions.
 
 Source location: https://github.com/ErasmusAndre/mini-rack
-
-Made by **André Erasmus**.

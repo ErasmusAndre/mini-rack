@@ -101,5 +101,3 @@ Star ⭐ this repo if you found it useful.
 
 [CERN-OHL-S v2](LICENSE). Use it, modify it, build and sell hardware from it,
 as long as you pass on the complete source under the same licence.
-
-Made by **André Erasmus**.
