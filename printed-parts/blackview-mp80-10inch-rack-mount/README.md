@@ -48,10 +48,15 @@ The front panel carries embossed Erasmus.works text, the files you can download 
 
 ## License
 
-CERN-OHL-S v2 ([LICENSE](../../LICENSE)), without warranty of any kind.
+Star ⭐ this repo if you found it useful.
+
+[CERN-OHL-S v2](../../LICENSE). Use it, modify it, build and sell hardware from
+it, as long as you pass on the complete source under the same licence.
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
+OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-S v2 for applicable conditions.
+
 Source location: https://github.com/ErasmusAndre/mini-rack
 
-Per CERN-OHL-S v2 section 4, hardware built from this source must keep the
-source location visible on the outside where practicable.
-
-Made by **André Erasmus, github.com/ErasmusAndre/mini-rack**.
+Made by **André Erasmus**.
