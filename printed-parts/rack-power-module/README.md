@@ -2,6 +2,8 @@
 
 A 10-inch rack part for mains and DC distribution. Not yet designed.
 
+Do not build this without reading [Safety](#safety) first.
+
 ## Design notes
 
 To fill in once the geometry exists: what it holds, how it mounts, where the
@@ -21,6 +23,20 @@ cables enter and leave.
 ## Files
 
 No files yet.
+
+## Safety
+
+This part carries live mains. Mains wiring kills people who get it wrong, and a
+fault in a printed enclosure can start a fire.
+
+Do not build it unless you are competent to wire mains and permitted to do so
+where you live. Sleeve or shroud all live terminals. PLA softens around 60 °C
+and is not a flame-retardant enclosure material.
+
+If anything you will plug in here will require a protective earth, make sure to wire it up.
+
+Build it at your own risk. I take no responsibility for injury, death, fire, or
+damage resulting from anything in this repository.
 
 ## License
 
