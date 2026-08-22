@@ -22,13 +22,14 @@ cables enter and leave.
 
 ## Hardware
 
-| Qty | Part | Price |
-| --- | --- | --- |
-| | [B+G E-Tech recessed earthed socket for DIN rail, 44 mm width max](https://stromzähler.eu/detail/018af08cc9277014a5bf7629857d9ec8) | 3.75 EUR |
-| | [RS PRO straight to straight power cord, 300 mm, black PVC](https://nl.rs-online.com/web/p/power-cords/1373334) (RS 1373334) | 4.95 EUR |
-| | [Schurter C14 straight snap-in IEC connector, 250 V male, 10 A](https://nl.rs-online.com/web/p/iec-connectors/5392023) (RS 5392023, 6100.4320) | 1.16 EUR |
-| | [Schurter C13 straight snap-in IEC connector, 250 V female, 15 A](https://nl.rs-online.com/web/p/iec-connectors/5392152) (RS 5392152, 6600.4315) | 2.16 EUR |
-| | [RS PRO illuminated DPST on-off on-none-on rocker switch panel](https://nl.rs-online.com/web/p/rocker-switches/7932507) (RS 7932507) | 1.77 EUR |
+| Qty | Part | Price | Mounting |
+| --- | --- | --- | --- |
+| 1 | [DIN rail earthed socket](https://stromzähler.eu/detail/018af08cc9277014a5bf7629857d9ec8) (B+G E-Tech) | 3.75 EUR | DIN rail, 44 mm wide |
+| 1 | [C13 to C14 cord, 30 cm](https://nl.rs-online.com/web/p/power-cords/1373334) (RS 1373334) | 4.95 EUR | |
+| 1 | [C14 inlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392023) (Schurter 6100.4320) | 1.16 EUR | 27.5 × 20.0 mm cutout |
+| 1 | [C13 outlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392152) (Schurter 6600.4315) | 2.16 EUR | 32.5 × 24.8 mm cutout |
+| 1 | [Illuminated DPST rocker](https://nl.rs-online.com/web/p/rocker-switches/7932507) (Molveno SX82) | 1.77 EUR | 30 × 22 mm cutout |
+| | **Total** | **13.79 EUR** | |
 
 ## Files
 
