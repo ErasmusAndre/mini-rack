@@ -7,19 +7,6 @@ A 10-inch rack part for mains and DC distribution. Not yet designed.
 To fill in once the geometry exists: what it holds, how it mounts, where the
 cables enter and leave.
 
-## Printing
-
-| | |
-| --- | --- |
-| Material | |
-| Profile | |
-| Nozzle | |
-| Bed | |
-| Layer height | |
-| Infill | |
-| Supports | |
-| Orientation | |
-
 ## Hardware
 
 | Qty | Part | Price | Mounting |

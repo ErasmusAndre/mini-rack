@@ -24,17 +24,6 @@ when you take the case apart. Nothing else is needed.
 
 It lays flat on its bottom face and prints without supports.
 
-| | |
-| --- | --- |
-| Material | PLA |
-| Profile | Anycubic Kobra X stock PLA |
-| Nozzle | 0.4 mm @ 215 °C |
-| Bed | 60 °C (PEI spring steel) |
-| Layer height | 0.2 mm |
-| Infill | 15 % |
-| Supports | None |
-| Orientation | Flat on the bottom face, as modelled |
-
 ## Hardware
 
 The MP-80's own enclosure screws, salvaged when you strip the case. No other

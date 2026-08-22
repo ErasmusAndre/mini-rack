@@ -20,16 +20,7 @@ The front panel carries embossed Erasmus.works text, the files you can download 
 
 ## Printing
 
-| | |
-| --- | --- |
-| Material | PLA, white |
-| Profile | Anycubic Kobra X stock PLA |
-| Nozzle | 0.4 mm @ 215 °C |
-| Bed | 60 °C (PEI spring steel) |
-| Layer height | 0.2 mm |
-| Infill | 15 % |
-| Supports | Tree |
-| Orientation | Front panel face down on the bed |
+Print the front panel face down on the bed, with tree supports.
 
 ## Hardware
 
