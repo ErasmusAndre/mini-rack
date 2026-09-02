@@ -13,12 +13,15 @@ cables enter and leave.
 
 | Qty | Part | Price | Mounting |
 | --- | --- | --- | --- |
-| 1 | [DIN rail earthed socket](https://stromzähler.eu/detail/018af08cc9277014a5bf7629857d9ec8) (B+G E-Tech) | 3.75 EUR | DIN rail, 44 mm wide |
-| 1 | [C13 to C14 cord, 30 cm](https://nl.rs-online.com/web/p/power-cords/1373334) (RS 1373334) | 4.95 EUR | |
-| 1 | [C14 inlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392023) (Schurter 6100.4320) | 1.16 EUR | 27.5 × 20.0 mm cutout |
-| 1 | [C13 outlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392152) (Schurter 6600.4315) | 2.16 EUR | 32.5 × 24.8 mm cutout |
-| 1 | [Illuminated DPST rocker](https://nl.rs-online.com/web/p/rocker-switches/7932507) (Molveno SX82) | 1.77 EUR | 30 × 22 mm cutout |
-| | **Total** | **13.79 EUR** | |
+| 1 | [DIN rail earthed socket](https://stromzähler.eu/detail/018af08cc9277014a5bf7629857d9ec8) (B+G E-Tech) | €3.75 | DIN rail, 44 mm wide |
+| 1 | [C13 to C14 cord, 30 cm](https://nl.rs-online.com/web/p/power-cords/1373334) (RS 1373334) | €4.95 | |
+| 1 | [C14 inlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392023) (Schurter 6100.4320) | €1.15 | 27.5 × 20.0 mm cutout |
+| 1 | [C13 outlet, snap-in](https://nl.rs-online.com/web/p/iec-connectors/5392152) (Schurter 6600.4315) | €2.15 | 32.5 × 24.8 mm cutout |
+| 1 | [Illuminated DPST rocker](https://nl.rs-online.com/web/p/rocker-switches/7932507) (Molveno SX82) | €1.75 | 30 × 22 mm cutout |
+| 8 | [Female faston, insulated, 0.5 to 1.5 mm²](https://nl.rs-online.com/web/p/spade-connectors/0534339) (RS 534-339) | €1.45 | 6.3 × 0.8 mm tabs |
+| 2 | [Twin ferrule, 2 × 1.5 mm²](https://nl.rs-online.com/web/p/bootlace-ferrules/1788742) (RS 178-8742) | €0.10 | GS16 screw terminals |
+| 0.6 m | H05VV-F 3G1.5 flexible cable | €0.80 | |
+| | **Total** | **€16.10** | |
 
 ## Files
 
@@ -30,8 +33,9 @@ This part carries live mains. Mains wiring kills people who get it wrong, and a
 fault in a printed enclosure can start a fire.
 
 Do not build it unless you are competent to wire mains and permitted to do so
-where you live. Sleeve or shroud all live terminals. PLA softens around 60 °C
-and is not a flame-retardant enclosure material.
+where you live. Sleeve or shroud all live terminals.
+PLA softens around 60 °C, PETG around 80 °C. Neither is flame retardant. Only a
+UL 94 V-0 filament is.
 
 If anything you will plug in here will require a protective earth, make sure to wire it up.
 
