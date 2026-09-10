@@ -113,12 +113,10 @@ Printed in white PLA. Read [Safety](#safety) before picking a filament.
 
 ## Files
 
-Same mesh in both formats. Print either.
-
-| Variant | Files |
+| Variant | File |
 | --- | --- |
-| DIN rail | [3MF](erasmus-works-power-module-din-rail-v62.3mf) · [STL](erasmus-works-power-module-din-rail-v62.stl) |
-| Power brick | [3MF](erasmus-works-power-module-power-brick-v62.3mf) · [STL](erasmus-works-power-module-power-brick-v62.stl) |
+| DIN rail | [3MF](erasmus-works-power-module-din-rail-v62.3mf) |
+| Power brick | [3MF](erasmus-works-power-module-power-brick-v62.3mf) |
 
 ## Safety
 
