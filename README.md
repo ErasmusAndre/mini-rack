@@ -72,8 +72,8 @@ behind them.
      Both exports live in printed-parts/, same basename: rack-ear.step (AP242, from
      Onshape) next to rack-ear.3mf (slicer project, carries the print settings,
      so link it rather than retyping them). Add the public Onshape doc link.
-     The STEP is not optional: CERN-OHL-S requires the Complete Source in the
-     preferred form for modification, and a mesh is not that. -->
+     Ship the STEP where there is one: it is the file people can actually
+     edit. CC BY-NC-SA does not require it. -->
 
 | Part | Mounts | Material | Files |
 | --- | --- | --- | --- |
@@ -99,5 +99,6 @@ Compute currently in the cluster:
 
 Star ⭐ this repo if you found it useful.
 
-[CERN-OHL-S v2](LICENSE). Use it, modify it, build and sell hardware from it,
-as long as you pass on the complete source under the same licence.
+[CC BY-NC-SA 4.0](LICENSE). Use it, modify it, share it, as long as you credit
+Andre Erasmus, link back to this repo, keep it non-commercial, and license
+anything you share under the same terms.

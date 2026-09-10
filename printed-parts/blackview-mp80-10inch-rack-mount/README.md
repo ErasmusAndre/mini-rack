@@ -41,11 +41,11 @@ Print the front panel face down on the bed, with tree supports.
 
 Star ⭐ this repo if you found it useful.
 
-[CERN-OHL-S v2](../../LICENSE). Use it, modify it, build and sell hardware from
-it, as long as you pass on the complete source under the same licence.
+[CC BY-NC-SA 4.0](../../LICENSE). Use it, modify it, share it, as long as you
+credit Andre Erasmus, link back to this repo, keep it non-commercial, and
+license anything you share under the same terms.
 
-This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
-OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-Please see the CERN-OHL-S v2 for applicable conditions.
+This work is offered as is, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+express or implied. Please see the licence for applicable conditions.
 
 Source location: https://github.com/ErasmusAndre/mini-rack
