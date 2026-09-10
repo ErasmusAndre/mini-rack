@@ -136,5 +136,5 @@ Compute currently in the cluster:
 Star ⭐ this repo if you found it useful.
 
 [CC BY-NC-SA 4.0](LICENSE). Use it, modify it, share it, as long as you credit
-Andre Erasmus, link back to this repo, keep it non-commercial, and license
+Erasmus.works, link back to this repo, keep it non-commercial, and license
 anything you share under the same terms.
