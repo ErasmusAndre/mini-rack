@@ -1,10 +1,15 @@
 # mini-rack
 
 The hardware behind [erasmus.works](https://github.com/ErasmusAndre/erasmus.works):
-a custom-built 10-inch aluminium mini rack, 3D printed mounts, and the mini-PCs
-running my Talos Kubernetes cluster.
+a custom-built 10-inch aluminium mini rack, 3D printed mounts and mains
+distribution, and the mini-PCs running my Talos Kubernetes cluster.
 
-![The assembled rack, patch panel at the top down to the nodes and NAS at the bottom](images/mini-rack-2026-08-05.jpeg)
+<table>
+<tr>
+<td width="50%"><img src="images/mini-rack-2026-08-05.jpeg" alt="The assembled rack, patch panel at the top down to the nodes and NAS at the bottom"></td>
+<td width="50%"><img src="printed-parts/rack-power-module/back-of-rack-power-modules.jpeg" alt="Six power modules in the back of the rack, rockers lit red, a short cord looping from each module to the one below"></td>
+</tr>
+</table>
 
 ---
 
@@ -79,6 +84,37 @@ behind them.
 | --- | --- | --- | --- |
 | [Blackview MP-80 10 inch rack mount](printed-parts/blackview-mp80-10inch-rack-mount/) | K8s Node 2, 1U on the rails | PLA | [STEP](printed-parts/blackview-mp80-10inch-rack-mount/Blackview-MP80-10inch-Rack-Mount.step) · [3MF](printed-parts/blackview-mp80-10inch-rack-mount/Blackview-MP80-10inch-Rack-Mount.3mf) |
 | [Blackview MP-80 mount](printed-parts/blackview-mp80-mount/) | K8s Node 2, shelf test mount | PLA | [STEP](printed-parts/blackview-mp80-mount/Blackview-MP80-Mount.step) · [3MF](printed-parts/blackview-mp80-mount/Blackview-MP80-Mount.3mf) |
+| [Rack power module](printed-parts/rack-power-module/) | Mains distribution, 1U on the rails | PLA | [3MF and STL, both variants](printed-parts/rack-power-module/README.md#files) |
+
+## Power
+
+One printed module per device, stacked down the back of the rack. Each carries a
+C14 inlet, an illuminated DPST rocker and a C13 outlet, with a honeycomb shelf
+behind the face plate for the device's mains adapter. A 30 cm C13 to C14 cord
+links each module to the one below, so the stack chains off a single feed and
+each rocker cuts its own module and everything downstream.
+
+Two variants share the same face plate. **DIN rail** takes a normal two pin wall
+plug on a length of DIN rail. **Power brick** goes straight into the brick's C14
+inlet on a right angle connector. Stacked, the sockets alternate left and right,
+which leaves room for an adapter taller than 1U.
+
+Each module is 1U at the rails and costs €16 to €18 in parts.
+
+<table>
+<tr>
+<td width="50%"><img src="printed-parts/rack-power-module/power-modules-layed-flat.jpeg" alt="Six modules laid flat on a table, showing the face plate, the honeycomb side wall and the shelf, four with a DIN rail socket and two with a right angle C13 connector"></td>
+<td width="50%"><img src="printed-parts/rack-power-module/power-modules-stacked.jpeg" alt="Four modules stacked, sockets alternating left and right down the stack, each clipped to the DIN rail behind the honeycomb shelf"></td>
+</tr>
+</table>
+
+This part carries live mains, which kills people who get it wrong. Do not build
+it unless you are competent to wire mains and permitted to do so where you live.
+Read [Safety](printed-parts/rack-power-module/README.md#safety) before you start,
+and before you pick a filament.
+
+Bill of materials, wiring diagram and build steps:
+[Rack Power Module](printed-parts/rack-power-module/).
 
 ## Hardware
 
