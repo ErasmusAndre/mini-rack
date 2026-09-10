@@ -84,7 +84,7 @@ behind them.
 | --- | --- | --- | --- |
 | [Blackview MP-80 10 inch rack mount](printed-parts/blackview-mp80-10inch-rack-mount/) | K8s Node 2, 1U on the rails | PLA | [STEP](printed-parts/blackview-mp80-10inch-rack-mount/Blackview-MP80-10inch-Rack-Mount.step) · [3MF](printed-parts/blackview-mp80-10inch-rack-mount/Blackview-MP80-10inch-Rack-Mount.3mf) |
 | [Blackview MP-80 mount](printed-parts/blackview-mp80-mount/) | K8s Node 2, shelf test mount | PLA | [STEP](printed-parts/blackview-mp80-mount/Blackview-MP80-Mount.step) · [3MF](printed-parts/blackview-mp80-mount/Blackview-MP80-Mount.3mf) |
-| [Rack power module](printed-parts/rack-power-module/) | Mains distribution, 1U on the rails | PLA | [3MF and STL, both variants](printed-parts/rack-power-module/README.md#files) |
+| [Rack power module](printed-parts/rack-power-module/) | Mains distribution, 1U on the rails | PLA | [3MF, both variants](printed-parts/rack-power-module/README.md#files) |
 
 ## Power
 
