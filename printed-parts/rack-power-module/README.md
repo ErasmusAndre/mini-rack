@@ -130,6 +130,10 @@ UL 94 V-0 filament is.
 
 Wire the protective earth if anything you plug in needs it.
 
+Every module draws its power through the ones before it, so the first module
+carries the load of the whole chain. Keep the total under 10 A, 2300 W at
+230 V: that is the rating of the C13 and C14 connectors and the 0.75 mm² cords.
+
 Build it at your own risk. I take no responsibility for injury, death, fire, or
 damage resulting from anything in this repository.
 
