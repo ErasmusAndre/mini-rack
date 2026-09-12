@@ -113,6 +113,9 @@ Printed in white PLA. Read [Safety](#safety) before picking a filament.
 
 ## Files
 
+Print it in a flame retardent UL 94 V-0 filament such as
+[PETG FR Jet](https://shop.filament-pm.com/petg-frjet-self-extinguishing-white-1-75-mm-0-5-kg/p166).
+
 | Variant | File |
 | --- | --- |
 | DIN rail | [3MF](erasmus-works-power-module-din-rail-v62.3mf) |
@@ -126,7 +129,8 @@ fault in a printed enclosure can start a fire.
 Do not build it unless you are competent to wire mains and permitted to do so
 where you live. Sleeve or shroud all live terminals.
 PLA softens around 60 °C, PETG around 80 °C. Neither is flame retardant. Only a
-UL 94 V-0 filament is.
+UL 94 V-0 filament is. Print it in a self-extinguishing filament such as
+[PM PETG FR Jet](https://shop.filament-pm.com/petg-frjet-self-extinguishing-white-1-75-mm-0-5-kg/p166).
 
 Wire the protective earth if anything you plug in needs it.
 
