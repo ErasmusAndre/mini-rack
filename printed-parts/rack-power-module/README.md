@@ -100,6 +100,16 @@ Alternatively, wire the C13 outlet straight to the C14 inlet and only the socket
 through the rocker. The rocker then cuts only what is plugged into this module,
 and the modules chained below stay on.
 
+### Daisy chaining
+
+Every connection adds resistance. With quality parts and correct crimps it is
+negligible: six chained modules measure 0.2 Ω, the same as a shop-bought rack
+power strip. Both read 0.6 Ω on the meter, 0.2 Ω after subtracting 0.4 Ω for the leads.
+
+![Left: a multimeter reading 0.6 Ω across six chained modules. Right: the same meter reading 0.6 Ω across a rack power strip, plug to socket](resistance.png)
+
+Measure the resistance before plugging anything in.
+
 ## Printing
 
 254 × 90 × 98 mm. The mounting ears take 1U at the rails.
