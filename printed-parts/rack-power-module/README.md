@@ -96,6 +96,10 @@ Wired up, before the variant-specific parts go in, it looks like this.
 
 ![The back of a face plate, brown and blue leads crimped onto the connectors and the rocker, free ends waiting for the socket or plug](wiring-in-module.jpeg)
 
+Alternatively, wire the C13 outlet straight to the C14 inlet and only the socket
+through the rocker. The rocker then cuts only what is plugged into this module,
+and the modules chained below stay on.
+
 ## Printing
 
 254 × 90 × 98 mm. The mounting ears take 1U at the rails.
