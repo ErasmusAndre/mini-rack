@@ -110,12 +110,6 @@ power strip. Both read 0.6 Ω on the meter, 0.2 Ω after subtracting 0.4 Ω for 
 
 Measure the resistance before plugging anything in.
 
-## Printing
-
-254 × 90 × 98 mm. The mounting ears take 1U at the rails.
-
-Printed in white PLA. Read [Safety](#safety) before picking a filament.
-
 ## Tools
 
 - 3D printer
